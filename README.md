@@ -9,9 +9,9 @@ SnakGame es un Videojuego creado con HTML,CSS y JavaScript
 
 
 ## Ver ejemplo en vivo
-- [Visitar Sitio]()
+- [Visitar Sitio](https://maximilianoviquez.github.io/SnakGame/)
 
-)
+
 ## Instalacion
 Este proyecto no necesita de instalacion. simplemente abre la carpeta o haz click en el .html
 
